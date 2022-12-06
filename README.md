@@ -1,2 +1,3 @@
-# portfolio-front-end
-Simple portfolio playing with front end technologies.
+# Portfolio Front End
+
+Simple portfolio for front end capabilities.

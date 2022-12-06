@@ -1,0 +1,78 @@
+* {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.drop-shadow {
+    -webkit-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.75);
+}
+
+.navbar-gradient {
+    background: rgb(255,251,235);
+    background: radial-gradient(circle, rgba(255,251,235,1) 0%, rgba(233,221,185,1) 100%);
+}
+
+.bg-color1 {
+    background-color: #FFFBEB;
+}
+
+.bg-color2 {
+    background-color: #495579;
+}
+
+.bg-color3 {
+    background-color: #263159;
+}
+
+.bg-color4 {
+    background-color: #251749;
+}
+
+.color1 {
+    color: #FFFBEB;
+}
+
+.color2 {
+    color: #495579;
+}
+
+.color3 {
+    color: #263159;
+}
+
+.color4 {
+    color: #251749;
+}
+
+.no-rounded {
+    border-radius: 0px;
+    border: 0px;
+}
+
+.middle-bg {
+    background-image: url("/assets/images/banner1.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.bottom-bg {
+    background-image: url("/assets/images/cover.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.font2 {
+    font-family: 'Dancing Script', cursive;
+}
+
+.font1 {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.bg-g-1 {
+    background: rgb(255,255,255);
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(235,235,235,1) 100%);
+}
